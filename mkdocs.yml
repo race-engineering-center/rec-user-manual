@@ -1,0 +1,66 @@
+site_name: Race Engineering Center
+
+theme:
+  name: material
+  logo: _assets/rec_logo_mac.png
+  favicon: _assets/favicon.png
+  language: en
+  features:
+    - header.autohide
+    - navigation.tabs
+    - navigation.tracking
+  palette:
+    - media: "(prefers-color-scheme: light)"  # Palette toggle for light mode
+      primary: deep_purple
+      scheme: default
+      toggle:
+        icon: material/weather-night
+    - media: "(prefers-color-scheme: dark)"  # Palette toggle for dark mode
+      primary: blue
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+
+plugins:
+  - search
+  - i18n:
+      languages:
+        en: 
+          name: English
+          site_name: Race Engineering Center user manual
+        ru: 
+          name: Русский
+          site_name: Race Engineering Center руководство пользователя
+
+      default_language: en
+
+      nav_translations:
+        ru:
+          Home: Главная страница
+          Quick start: Быстрый старт
+          Overview: Обзор
+          Telemetry analysis widgets: Виджеты анализа телеметрии
+          Lap library: Библиотека кругов
+
+nav:
+  - Home: 
+    - Overview: index.md
+    - Quick start: quickstart.md
+  - Analyzer: 
+    - Overview: analyzer/analyzer.md
+    - Telemetry analysis widgets:
+      - Telemetry: analyzer/widget_telemetry.md
+      - Quadri-telemetry: analyzer/widget_qtelemetry.md
+      - Scatter: analyzer/widget_scatter.md
+      - Histogram: analyzer/widget_histogram.md
+      - Quadri-histogram: analyzer/widget_qhistogram.md
+      - Track map: analyzer/widget_trackmap.md
+      - Stint analyzer: analyzer/widget_stint.md
+    - Lap library: analyzer/laplibrary.md
+    - Scripting: 
+      - Script editor: analyzer/scripts.md
+      - Script API reference: analyzer/script_api.md
+    
+  - Recorder:
+    - Overview: recorder/recorder.md
+

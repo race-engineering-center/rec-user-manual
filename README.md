@@ -10,4 +10,4 @@ User manual is available here
 - `cd` into project root folder
 - Optionally create and activate venv
 - Install dependencies `pip install -r requirements.txt`
-- Run `mkdoc serve` to launch a local web-server with user manual
+- Run `mkdocs serve` to launch a local web-server with user manual

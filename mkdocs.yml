@@ -9,6 +9,7 @@ theme:
     - header.autohide
     - navigation.tabs
     - navigation.tracking
+    - navigation.expand
   palette:
     - media: "(prefers-color-scheme: light)"  # Palette toggle for light mode
       primary: deep_purple

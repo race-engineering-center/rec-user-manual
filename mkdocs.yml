@@ -41,7 +41,12 @@ plugins:
           Quick start: Быстрый старт
           Overview: Обзор
           Telemetry analysis widgets: Виджеты анализа телеметрии
+          Stint analyzer: Анализ стинта
           Lap library: Библиотека кругов
+          Track scheme: Схема трассы
+          Scripting: Скрипты
+          Script editor: Редактор скриптов
+          Script API reference: Справочник по API скриптов
 
 nav:
   - Home: 
@@ -57,6 +62,7 @@ nav:
       - Quadri-histogram: analyzer/widget_qhistogram.md
       - Track map: analyzer/widget_trackmap.md
       - Stint analyzer: analyzer/widget_stint.md
+    - Track scheme: analyzer/trackscheme.md
     - Lap library: analyzer/laplibrary.md
     - Scripting: 
       - Script editor: analyzer/scripts.md

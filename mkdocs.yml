@@ -13,12 +13,12 @@ theme:
     - navigation.top
     - toc.integrate
   palette:
-    - media: "(prefers-color-scheme: light)"  # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
       primary: deep_purple
       scheme: default
       toggle:
         icon: material/weather-night
-    - media: "(prefers-color-scheme: dark)"  # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
       primary: blue
       scheme: slate
       toggle:
@@ -33,6 +33,7 @@ nav:
     - Quick start: quickstart.md
   - Analyzer:
     - Overview: analyzer/analyzer.md
+    - Working with laps: analyzer/laps.md
     - Telemetry analysis widgets:
       - Workbooks: analyzer/workbooks.md
       - Telemetry: analyzer/widget_telemetry.md
@@ -70,6 +71,7 @@ plugins:
           Home: Главная страница
           Quick start: Быстрый старт
           Overview: Обзор
+          Working with laps: Работа с кругами
           Workbooks: Работа с воркбуками
           Telemetry analysis widgets: Виджеты анализа телеметрии
           Stint analyzer: Анализ стинта

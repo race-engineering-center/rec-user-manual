@@ -27,6 +27,31 @@ theme:
 markdown_extensions:
   - admonition
 
+nav:
+  - Home:
+    - Overview: index.md
+    - Quick start: quickstart.md
+  - Analyzer:
+    - Overview: analyzer/analyzer.md
+    - Telemetry analysis widgets:
+      - Workbooks: analyzer/workbooks.md
+      - Telemetry: analyzer/widget_telemetry.md
+      - Quadri-telemetry: analyzer/widget_qtelemetry.md
+      - Scatter: analyzer/widget_scatter.md
+      - Histogram: analyzer/widget_histogram.md
+      - Quadri-histogram: analyzer/widget_qhistogram.md
+      - Track map: analyzer/widget_trackmap.md
+      - Stint analyzer: analyzer/widget_stint.md
+    - Track scheme: analyzer/trackscheme.md
+    - Lap library: analyzer/laplibrary.md
+    - Preferences: analyzer/preferences.md
+    - Scripting:
+      - Script editor: analyzer/scripts.md
+      - Script API reference: analyzer/script_api.md
+
+  - Recorder:
+    - Overview: recorder/recorder.md
+
 plugins:
   - search
   - i18n:
@@ -45,6 +70,7 @@ plugins:
           Home: Главная страница
           Quick start: Быстрый старт
           Overview: Обзор
+          Workbooks: Работа с воркбуками
           Telemetry analysis widgets: Виджеты анализа телеметрии
           Stint analyzer: Анализ стинта
           Lap library: Библиотека кругов
@@ -54,27 +80,5 @@ plugins:
           Script editor: Редактор скриптов
           Script API reference: Справочник по API скриптов
 
-nav:
-  - Home: 
-    - Overview: index.md
-    - Quick start: quickstart.md
-  - Analyzer: 
-    - Overview: analyzer/analyzer.md
-    - Telemetry analysis widgets:
-      - Telemetry: analyzer/widget_telemetry.md
-      - Quadri-telemetry: analyzer/widget_qtelemetry.md
-      - Scatter: analyzer/widget_scatter.md
-      - Histogram: analyzer/widget_histogram.md
-      - Quadri-histogram: analyzer/widget_qhistogram.md
-      - Track map: analyzer/widget_trackmap.md
-      - Stint analyzer: analyzer/widget_stint.md
-    - Track scheme: analyzer/trackscheme.md
-    - Lap library: analyzer/laplibrary.md
-    - Preferences: analyzer/preferences.md
-    - Scripting: 
-      - Script editor: analyzer/scripts.md
-      - Script API reference: analyzer/script_api.md
-    
-  - Recorder:
-    - Overview: recorder/recorder.md
+
 

@@ -1,3 +1,68 @@
 # Analyzer
 
-Analyzer is very cool
+The REC Analyzer desktop application is designed to provide comprehensive telemetry analysis capabilities for racing 
+simulators on your desktop computer. Whether you're a racing professional, a dedicated sim racer, or an enthusiast, 
+the Analyzer is here to help you extract valuable insights from your telemetry data and optimize your performance.
+
+## Main features
+
+Visualize and Interpret Data:
+
+  * Explore detailed telemetry data, including speed, acceleration, braking, steering angles, and more
+  * Gain insights into your driving techniques and identify areas for improvement
+  * Visualize telemetry information through specially designed customizable graphs
+
+Compare and Contrast:
+
+  * Analyze multiple laps or sessions simultaneously to identify patterns and uncover trends
+  * Compare your performance with that of other drivers or reference data to benchmark your progress
+  * Highlight variations in driving lines, braking points, and cornering strategies for targeted analysis
+
+Performance Optimization:
+
+  * Pinpoint areas of your driving that can be optimized for faster lap times
+  * Analyze the effects of setup changes and fine-tune your vehicle configurations
+
+## User interface overview
+
+This section provides an overview of the key graphical user interface (GUI) elements within the REC Analyzer 
+application.
+
+![Analyzer GUI overview](img/analyzer_gui_overview_src.png "Analyzer GUI overview")
+
+Main GUI elements:
+
+1. List of all laps loaded into the app
+2. Selected lap
+3. Info about the selected lap
+4. List of all available channels
+5. Telemetry analysis widgets
+6. Telemetry analysis widget settings 
+7. Track scheme
+8. Cursor that shows current position of a car (synchronized across different widgets)
+
+Additional controls:
+
+9. Analysis tabs 
+10. Collapse/expand telemetry analysis widget settings
+11. Add new analysis tab
+12. Open previously closed tabs
+13. Collapse/expand left instruments panel
+14. Collapse/expand channels list
+
+## Telemetry toolbar overview
+
+The main toolbar provides quick access to essential features and windows. 
+
+![Analyzer telemetry toolbar overview](img/analyzer_telemetry_toolbar_overview_src.png "Analyzer telemetry toolbar overview")
+
+1. Connect to data source and start receiving data
+2. Open telemetry file (native REC format) from disk
+3. Import telemetry file (external format) from disk
+4. Open scripting window (see [scripts](scripts.md) for details)
+5. Open Lap library window (see [Lap library](laplibrary.md) for details)
+6. Open preferences window (see [preferences](preferences.md) for details)
+
+!!! Note
+    On macOS the telemetry toolbar is hidden by default to save screen space. You can show it by checking the 
+    main menu item View -> Toolbars -> Telemetry. All main toolbar features are also available in the main menu.

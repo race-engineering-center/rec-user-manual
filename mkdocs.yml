@@ -10,6 +10,8 @@ theme:
     - navigation.tabs
     - navigation.tracking
     - navigation.expand
+    - navigation.top
+    - toc.integrate
   palette:
     - media: "(prefers-color-scheme: light)"  # Palette toggle for light mode
       primary: deep_purple
@@ -21,6 +23,9 @@ theme:
       scheme: slate
       toggle:
         icon: material/weather-sunny
+
+markdown_extensions:
+  - admonition
 
 plugins:
   - search
@@ -44,6 +49,7 @@ plugins:
           Stint analyzer: Анализ стинта
           Lap library: Библиотека кругов
           Track scheme: Схема трассы
+          Preferences: Настройки
           Scripting: Скрипты
           Script editor: Редактор скриптов
           Script API reference: Справочник по API скриптов
@@ -64,6 +70,7 @@ nav:
       - Stint analyzer: analyzer/widget_stint.md
     - Track scheme: analyzer/trackscheme.md
     - Lap library: analyzer/laplibrary.md
+    - Preferences: analyzer/preferences.md
     - Scripting: 
       - Script editor: analyzer/scripts.md
       - Script API reference: analyzer/script_api.md

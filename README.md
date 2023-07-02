@@ -6,6 +6,8 @@ User manual is available here
 
 ## Local development
 
+You'll need python>=3.7
+
 - Clone this repo
 - `cd` into project root folder
 - Optionally create and activate venv

@@ -56,31 +56,35 @@ nav:
 plugins:
   - search
   - i18n:
+      docs_structure: suffix
+      fallback_to_default: true
       languages:
-        en: 
+        - build: true
+          default: true
+          locale: en
           name: English
           site_name: Race Engineering Center user manual
-        ru: 
+        - build: true
+          default: false
+          locale: ru
           name: Русский
+          nav_translations:
+            Home: Главная страница
+            Lap library: Библиотека кругов
+            Overview: Обзор
+            Preferences: Настройки
+            Quick start: Быстрый старт
+            Script API reference: Справочник по API скриптов
+            Script editor: Редактор скриптов
+            Scripting: Скрипты
+            Stint analyzer: Анализ стинта
+            Telemetry analysis widgets: Виджеты анализа телеметрии
+            Track scheme: Схема трассы
+            Workbooks: Работа с воркбуками
+            Working with laps: Работа с кругами
           site_name: Race Engineering Center руководство пользователя
-
-      default_language: en
-
-      nav_translations:
-        ru:
-          Home: Главная страница
-          Quick start: Быстрый старт
-          Overview: Обзор
-          Working with laps: Работа с кругами
-          Workbooks: Работа с воркбуками
-          Telemetry analysis widgets: Виджеты анализа телеметрии
-          Stint analyzer: Анализ стинта
-          Lap library: Библиотека кругов
-          Track scheme: Схема трассы
-          Preferences: Настройки
-          Scripting: Скрипты
-          Script editor: Редактор скриптов
-          Script API reference: Справочник по API скриптов
+      reconfigure_material: true
+      reconfigure_search: true
 
 
 

@@ -3,6 +3,8 @@
 Lap list provides convenient way to organize laps you work with in a current analysis session. It uses
 a hierarchical organization for your laps, that consists of four levels: session, driver, stint, and lap.
 
+![Analyzer lap list](img/analyzer_lap_tree.png "Analyzer lap list")
+
 ## Switching between laps
 
 Use the lap tree to show and hide laps. When you uncheck a lap checkbox in the lap tree, all corresponding 

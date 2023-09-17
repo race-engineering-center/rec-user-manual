@@ -48,7 +48,7 @@ nav:
     - Track scheme: analyzer/trackscheme.md
     - Preferences: analyzer/preferences.md
     - Scripting:
-      - Script editor: analyzer/scripts.md
+      - Working with scripts: analyzer/scripts.md
       - Script API reference: analyzer/script_api.md
 
   - Recorder:
@@ -76,7 +76,7 @@ plugins:
             Preferences: Настройки
             Quick start: Быстрый старт
             Script API reference: Справочник по API скриптов
-            Script editor: Редактор скриптов
+            Working with scripts: Работа со скриптами
             Scripting: Скрипты
             Stint analyzer: Анализ стинта
             Telemetry analysis widgets: Виджеты анализа телеметрии

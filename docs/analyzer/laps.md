@@ -5,6 +5,11 @@ a hierarchical organization for your laps, that consists of four levels: session
 
 ![Analyzer lap list](img/analyzer_lap_tree.png "Analyzer lap list")
 
+Each lap row contains info about lap name, lap time, delta to best loaded lap and delta to best lap in stint.
+
+Each lap is marked with flag with the color corresponding to this lap. All graphs for this lap in telemetry
+widgets will have the same lap to easily distinguish different laps.
+
 ## Switching between laps
 
 Use the lap tree to show and hide laps. When you uncheck a lap checkbox in the lap tree, all corresponding 

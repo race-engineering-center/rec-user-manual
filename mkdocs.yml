@@ -34,6 +34,7 @@ nav:
   - Analyzer:
     - Overview: analyzer/analyzer.md
     - Working with laps: analyzer/laps.md
+    - Lap library: analyzer/laplibrary.md
     - Telemetry analysis widgets:
       - Workbooks: analyzer/workbooks.md
       - Telemetry: analyzer/widget_telemetry.md
@@ -44,7 +45,6 @@ nav:
       - Track map: analyzer/widget_trackmap.md
       - Stint analyzer: analyzer/widget_stint.md
     - Track scheme: analyzer/trackscheme.md
-    - Lap library: analyzer/laplibrary.md
     - Preferences: analyzer/preferences.md
     - Scripting:
       - Script editor: analyzer/scripts.md

@@ -1,4 +1,5 @@
 site_name: Race Engineering Center
+site_url: https://race-engineering-center.github.io/rec-user-manual/
 
 theme:
   name: material

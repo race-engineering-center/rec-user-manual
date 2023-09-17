@@ -17,6 +17,14 @@ You can change color of a selected lap or multiple selected laps with a context 
 a lap in the lap tree (or select several laps and right mouse click on any one of them), select "Lap color"
 in a context menu, select a color you want for your lap(s) and hit "OK". 
 
+![Analyzer lap list context menu](img/analyzer_lap_tree_context_menu.png "Analyzer lap list context menu")
+
+In this context menu you can also add selected laps or all laps to library (please refer to the 
+[lap library](laplibrary.md) section for details), and remove laps from analysis. 
+
+!!! Note
+    "Remove" laps will only unload them from analysis but won't delete actual files from disk.
+
 Analyzer automatically assigns a name to all sessions, drivers, stints, and laps. You can change the name of 
 any session, driver, stint, or lap for further customization. Right mouse click on any item in the lap tree,
 select "Change name", enter a new name and hit "OK". Empty names are not allowed. 
@@ -24,6 +32,8 @@ select "Change name", enter a new name and hit "OK". Empty names are not allowed
 !!! Note 
     Analyzer is able to save names that you assigned to your laps between runs of the application **only 
     if these laps are saved to the Lap library**
+
+Use "Reset name" context menu item to unset your custom name if you no longer need it.
 
 ## Lap info list
 

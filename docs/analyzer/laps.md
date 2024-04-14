@@ -32,10 +32,11 @@ In this context menu you can also add selected laps or all laps to library (plea
     "Remove" laps will only unload them from analysis but won't delete actual files from disk.
 
 Analyzer automatically assigns a name to all sessions, drivers, stints, and laps. You can change the name of 
-any session, driver, stint, or lap for further customization. Right mouse click on any item in the lap tree,
-select "Change name", enter a new name and hit "OK". Empty names are not allowed. 
+any session, driver, stint, or lap for further customization. Right mouse click on a corresponding item in 
+the lap tree, select "Rename", enter a new name and hit "OK". Empty names are not allowed. 
 
-To reset a lap name to a default, right mouse click on any item in the lap tree and select "Reset name".
+To reset a lap name to a default, right mouse click on a corresponding item in the lap tree and select 
+"Reset name".
 
 ![Analyzer rename lap](img/analyzer_rename_lap.gif "Analyzer rename lap")
 
@@ -47,7 +48,12 @@ Use "Reset name" context menu item to unset your custom name if you no longer ne
 
 ## Reference lap
 
-...
+By default REC computes deltas (for example time delta or speed delta) against the fastest loaded lap. If
+you want to use another lap as a base lap for delta calculation, right mouse click on a corresponding item 
+in the lap tree and select "Set as reference lap". Note that reference lap is shown bold in a lap tree. 
+
+To go back to using your fastest lap as reference, right mouse click on a corresponding item in the 
+lap tree and select "Unset reference lap".
 
 ## Always show
 

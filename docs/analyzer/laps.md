@@ -52,8 +52,8 @@ By default REC computes deltas (for example time delta or speed delta) against t
 you want to use another lap as a base lap for delta calculation, right mouse click on a corresponding item 
 in the lap tree and select "Set as reference lap". Note that reference lap is shown bold in a lap tree. 
 
-To go back to using your fastest lap as reference, right mouse click on a corresponding item in the 
-lap tree and select "Unset reference lap".
+To go back to using your fastest lap as reference, right mouse click on any item in the  lap tree and select 
+"Unset reference lap".
 
 ## Always show
 

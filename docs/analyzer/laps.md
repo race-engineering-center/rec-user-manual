@@ -14,7 +14,8 @@ widgets will have the same lap to easily distinguish different laps.
 
 Use the lap tree to show and hide laps. When you uncheck a lap checkbox in the lap tree, all corresponding 
 graphs will be hidden in all analysis widgets. Hold Alt (Option on macOS) and click on a checkbox to
-show this particular lap and hide all other laps.
+show this particular lap and hide all other laps. To make comparing laps even more convenient, you can use
+[Always show](#always-show) feature
 
 ## Organizing laps
 
@@ -25,20 +26,43 @@ in a context menu, select a color you want for your lap(s) and hit "OK".
 ![Analyzer lap list context menu](img/analyzer_lap_tree_context_menu.png "Analyzer lap list context menu")
 
 In this context menu you can also add selected laps or all laps to library (please refer to the 
-[lap library](laplibrary.md) section for details), and remove laps from analysis. 
+[lap library](laplibrary.md) section for details), and remove laps from analysis.
 
-!!! Note
+!!! note
     "Remove" laps will only unload them from analysis but won't delete actual files from disk.
 
 Analyzer automatically assigns a name to all sessions, drivers, stints, and laps. You can change the name of 
 any session, driver, stint, or lap for further customization. Right mouse click on any item in the lap tree,
 select "Change name", enter a new name and hit "OK". Empty names are not allowed. 
 
-!!! Note 
+To reset a lap name to a default, right mouse click on any item in the lap tree and select "Reset name".
+
+![Analyzer rename lap](img/analyzer_rename_lap.gif "Analyzer rename lap")
+
+!!! note 
     Analyzer is able to save names that you assigned to your laps between runs of the application **only 
     if these laps are saved to the Lap library**
 
 Use "Reset name" context menu item to unset your custom name if you no longer need it.
+
+## Reference lap
+
+...
+
+## Always show
+
+You can enable "always show" mode for a specific lap (or multiple laps). In this mode a lap is always visible
+and it won't be hidden even if you try to uncheck it manually. It also won't be hidden with Alt+click on another
+lap.
+
+!!! tip
+    To quickly compare your reference lap with several other laps, you can turn on "Always show" for your reference
+    lap and then Alt+click on a checkbox on a lap you want to compare it with. Now to quickly hide this lap and
+    show another lap keeping the reference lap visible, just Alt+click on a checkbox in a next lap you want to 
+    compare.
+
+    ![Always show](img/analyzer_always_show.gif "Always show")
+
 
 ## Lap info list
 
@@ -67,7 +91,7 @@ filter and display only the parameters that match your search string.
 Channel list contains information about all channels available in laps that are currently loaded into Analyzer.
 Channels are grouped by category for easier search. 
 
-!!! Note 
+!!! note 
     It's possible that some of the laps does not have some of the channels listed, depending on the way these laps
     were recorded. Strictly speaking, channels listed in the Laps list are represented by the full outer join of
     the channels from all laps currently loaded into Analyzer

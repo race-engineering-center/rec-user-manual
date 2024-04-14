@@ -27,6 +27,8 @@ theme:
 
 markdown_extensions:
   - admonition
+  - toc:
+      permalink: 🔗
 
 nav:
   - Home:

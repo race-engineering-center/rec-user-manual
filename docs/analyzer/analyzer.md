@@ -48,6 +48,31 @@ Main GUI elements:
 14. Collapse/expand channels list
 15. Cursor value details
 
+## Managing GUI layout
+
+You can show and hide different elements in the Analyzer main window to save space and make
+the user interface more convenient. 
+
+To hide and show the left sidebar (Lap tree, Lap info and Channel list) click Collapse left sidebar
+button in the main status bar.
+
+![Analyzer collapse left sidebar](img/analyzer_collapse_left_sidebar.png "Analyzer collapse left sidebar")
+
+You can also grab the splitter between the left sidebar and telemetry view and drag it all the way to
+the left collapsing the left sidebar. Note that the icon in the status bar will change and you can
+click it to restore the sidebar. 
+
+You can also hide the Channels list to give you more space to see lap time deltas. To hide or show Channels
+list click Hide channels list button in the main status bar
+
+![Analyzer hide channels](img/analyzer_hide_channels_list.png "Analyzer hide channels")
+
+You can also hide the widget control panel (located to the right of the analysis widget) by clicking
+"Hide sidebar" button on the top right corner. We recommend to do this when you're done setting up
+your widgets to have more space for the actual data.
+
+![Analyzer hide sidebar](img/analyzer_hide_sidebar.png "Analyzer hide sidebar")
+
 ## Telemetry toolbar overview
 
 The main toolbar provides quick access to essential features and windows. 

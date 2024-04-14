@@ -55,7 +55,7 @@ Double-click anywhere in a telemetry widget to remove a selection area.
     in one tab, switch to another tab and inspect another data within the same track section. Also all
     of those are shown on a track scheme so you can easily find yourself on a track if you got lost.
 
-## Adding channels to telemetry widget
+## Adding channels
 
 The easiest way to add a channel into a telemetry widget is to double-click on it in a Channel list. This
 will add the specified channel in a new viewport in the current telemetry tab.

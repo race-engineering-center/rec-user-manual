@@ -85,6 +85,8 @@ Some of the useful lap attributes shown in the lap info are:
 
 And many more!
 
+![Lap info](img/analyzer_lap_info.png "Lap info")
+
 A list of values shown in the Lap info depends on a particular data source and version of REC used to record this
 telemetry file.
 

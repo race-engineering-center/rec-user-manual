@@ -21,7 +21,7 @@ to move a visible area left and right.
 ### Cursor
 
 A cursor (blue vertical line on a telemetry widget) shows a current point on a track. You can see a value
-under a cursor for each graph on a viewport header. A color of the value label corrrsponds to the graph
+under a cursor for each graph on a viewport header. A color of the value label corresponds to the graph
 color and a color of this lap in a lap tree. Move a cursor left and right with a mouse to inspect
 values around your point of interest, for example to check the speed difference between two laps in some
 section of the lap.
@@ -34,15 +34,15 @@ Double-click and drag in a telemetry widget to draw a selection area. A current 
 is shown in a bottom right corner of the Analyzer window.
 
 If there's a sufficient space, the statistics for each channel of the selected area will be shown. 
-A color of the value label corrrsponds to the graph color, value under cursor shown in a viewport header
+A color of the value label corresponds to the graph color, value under cursor shown in a viewport header
 and a color of this lap in a lap tree. By default the following information is shown
 
 - `▬` **Average** - an *average* value of this channel on this lap inside the selected area
 - `▼` **Min value** - the *minimum* value of this channel observed on this lap inside the selected area
 - `▲` **Max value** - the *maximum* value of this channel observed on this lap inside the selected area
-- `▼▲` **Min/max delta** - the *difference* between the minimum and the maxmimum value of this channel 
+- `▼▲` **Min/max delta** - the *difference* between the minimum and the maximum value of this channel 
 observed on this lap inside the selected area
-- `<` **Value at selection strat** - the value observed on this lap at the *start* of the the selected area
+- `<` **Value at selection start** - the value observed on this lap at the *start* of the the selected area
 - `>` **Value at selection end** - the value observed on this lap at the *end* of the the selected area
 - `<>` **Selection start/end delta** - the *difference* between the value at the start and at the end 
 of the the selected area on this lap
@@ -110,7 +110,7 @@ and hit Apply for your settings to take effect.
 ![Telemetry widget setup scaling](img/widget_telemetry_setup_scaling.png "Telemetry widget setup scaling")
 
 !!! tip
-    We recomment to use **Auto on visible graphs** scaling in most cases unless you really know what you're doing.
+    We recommend to use **Auto on visible graphs** scaling in most cases unless you really know what you're doing.
     You might need to use **Manual** scaling if you need to see multiple channels in one viewport, as for example
     in a builtin Driver tab where we have Speed channel scaled automatically and Gear channel occupying ~20% of
     the viewport height using **Manual** scaling.

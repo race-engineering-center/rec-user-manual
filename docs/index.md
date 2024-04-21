@@ -10,7 +10,7 @@ You can download the latest REC version [here](https://dnl.rec-telemetry.org/lat
 ## Gems
 
 * Quick and easy to learn lightweight yet powerful interface
-* Telemetry, histogram, and scatterplot views specially designed to fit telemetry analysis needs
+* Telemetry, histogram, and scatter plot views specially designed to fit telemetry analysis needs
 * Designed to compare several laps
 * Direct iRacing telemetry import
 * Live data recording from iRacing, Assetto Corsa, Assetto Corsa Competizione and RaceRoom Racing Experience

@@ -1,0 +1,18 @@
+{
+    "version": "0.2",
+    "language": "en",
+    "words": [
+        "mkdocs",
+        "venv",
+        "quadri",
+        "viewports",
+        "Assetto",
+        "Corsa",
+        "Competizione",
+    ],
+    "ignorePaths": [
+        "**.ru.md",
+        "requirements.txt",
+        "mkdocs.yml"
+    ]
+}

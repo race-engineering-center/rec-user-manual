@@ -2,6 +2,8 @@
     "version": "0.2",
     "language": "en",
     "words": [
+        "mkdocs",
+        "venv",
         "quadri",
         "viewports",
         "Assetto",
@@ -9,6 +11,8 @@
         "Competizione",
     ],
     "ignorePaths": [
-        "**.ru.md"
+        "**.ru.md",
+        "requirements.txt",
+        "mkdocs.yml"
     ]
 }

@@ -55,6 +55,7 @@ nav:
 
   - Recorder:
     - Overview: recorder/recorder.md
+    - Preferences: recorder/preferences.md
 
 plugins:
   - search

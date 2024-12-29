@@ -5,7 +5,7 @@ telemetry data for further analysis. Designed to work seamlessly with the
 [Analyzer](../analyzer/analyzer.md), it provides reliable data acquisition to support a variety 
 of telemetry-driven workflows.
 
-## Main Features
+## Main features
 
   * Connects directly to supported simulators for real-time telemetry recording
   * Captures all available data data such as speed, throttle, braking, steering, and more
@@ -59,3 +59,6 @@ saved in the [lap library](../analyzer/laplibrary.md)
     directly, since it contains more data than if recorded in realtime. However sometimes it might
     be feasible to use recorder with iRacing, for example when you want to record data from another
     car, or grab telemetry from a replay.
+
+Recorder can automatically ignore certain types of laps if you don't want them in your library
+(for example outlaps or incomplete laps). Refer to [preferences](preferences.md) for details.

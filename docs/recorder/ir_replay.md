@@ -25,3 +25,11 @@ check your lap.
     iRacing live plugin records all the data provided by iRacing, however the telemetry recorded 
     from the replay will contain smaller set of channels because iRacing does not provide some
     telemetry in replay.
+
+Sometimes Recorder will not be able to correctly detect a lap start or lap end (usually because
+the replay was started after the lap started or ended before the lap ended). Technically, if
+recording starts after the lap is started, Recorder thinks it's an outlap. You can disable 
+ignoring outlaps to record these kinds of laps if needed. Similarly, if replay ended before 
+the lap was ended, Recorder thinks it's an incomplete lap. Disable ignoring incomplete laps
+to record a lap from a replay that ended before the lap ended. 
+Refer to [Recorder preferences](preferences.md) for details.

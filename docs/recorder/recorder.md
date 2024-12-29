@@ -43,6 +43,19 @@ There are 3 possible statuses for each data source:
 * **Connection available** - recorder detected that the simulator is running but didn't connect (yet?)
 * **Connected** - recorder connected to the simulator and will record telemetry
 
+Recorder will detect and record telemetry from all cars that are checked in the list of available
+cars.
+
 Some live plugins support recording telemetry only from your car, some on the other hand support
 limited recording from other cars. Other cars data is usually very limited, but might be useful 
 to quickly understand where you lose time.
+
+When recorder is connected to the sim (status is shown as "connected" and a necessary car is checked)
+it's ready to record your telemetry. Just go on track and do a quick lap, it will be recorded and
+saved in the [lap library](../analyzer/laplibrary.md)
+
+!!! Note
+    A recommended way of retrieving telemetry from iRacing is importing ibt file into the Analyzer
+    directly, since it contains more data than if recorded in realtime. However sometimes it might
+    be feasible to use recorder with iRacing, for example when you want to record data from another
+    car, or grab telemetry from a replay.

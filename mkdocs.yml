@@ -55,6 +55,8 @@ nav:
 
   - Recorder:
     - Overview: recorder/recorder.md
+    - Preferences: recorder/preferences.md
+    - Recording from iRacing replay: recorder/ir_replay.md
 
 plugins:
   - search
@@ -85,6 +87,7 @@ plugins:
             Track scheme: Схема трассы
             Workbooks: Работа с воркбуками
             Working with laps: Работа с кругами
+            Recording from iRacing replay: Запись из реплея iRacing
           site_name: Race Engineering Center руководство пользователя
       reconfigure_material: true
       reconfigure_search: true

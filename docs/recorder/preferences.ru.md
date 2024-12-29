@@ -1,3 +1,3 @@
-# Recorder preferences
+# Настройки Recorder
 
 Раздел в разработке

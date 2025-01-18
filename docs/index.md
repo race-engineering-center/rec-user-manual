@@ -18,6 +18,12 @@ You can download the latest REC version [here](https://dnl.rec-telemetry.org/lat
 * Available for Windows and macOS
 * Completely free
 
+## What's in the box?
+
+- [**Analyzer**](analyzer/analyzer.md) - a desktop app for comprehensive telemetry analysis
+- [**Recorder**](recorder/recorder.md) - a desktop app that connects to various simulators and records
+telemetry
+
 ## Contact us
 
 You can contact us by writing on email <support@rec-telemetry.org>

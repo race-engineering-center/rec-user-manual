@@ -20,6 +20,7 @@
     "ignorePaths": [
         "**.ru.md",
         "requirements.txt",
-        "mkdocs.yml"
+        "mkdocs.yml",
+        "**.excalidraw",
     ]
 }

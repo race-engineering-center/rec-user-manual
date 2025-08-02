@@ -3,6 +3,8 @@
 **Race Engineering Center** (REC) telemetry analysis software is designed to help racing teams 
 improve their performance by providing detailed insights into the behavior of their vehicle during races.
 
+![Analyzer GUI overview](analyzer/img/analyzer_gui_overview_src.png "Analyzer GUI overview")
+
 ## Download
 
 You can download the latest REC version [here](https://dnl.rec-telemetry.org/latest/)

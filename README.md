@@ -16,3 +16,10 @@ You'll need python>=3.7
 - Install dependencies `pip install -r requirements.txt`
 - Run `mkdocs serve` to launch a local web-server with user manual
 - By default, the website with docs will run on http://127.0.0.1:8000/, follow the link in the terminal to open docs
+
+## Working with images
+
+In case some annotations are needed on an image, use [excalidraw](https://excalidraw.com) to create an annotated image. Use
+a screenshot as a background, save a screenshot with `_src` suffix. Export an image to png with the same name and `_marks`
+suffix. Then remove an image from excalidraw and save `.excalidraw` file without an image with the same base name as the
+annotated image. This way we can make the images somewhat reproducible.

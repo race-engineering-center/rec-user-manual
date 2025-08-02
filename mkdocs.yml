@@ -38,6 +38,7 @@ nav:
     - Overview: analyzer/analyzer.md
     - Working with laps: analyzer/laps.md
     - Lap library: analyzer/laplibrary.md
+    - Garage61 client: analyzer/cloud_db.md
     - Telemetry analysis widgets:
       - Workbooks: analyzer/workbooks.md
       - Telemetry: analyzer/widget_telemetry.md
@@ -76,6 +77,7 @@ plugins:
           nav_translations:
             Home: Главная страница
             Lap library: Библиотека кругов
+            Garage61 client: Клиент Garage61
             Overview: Обзор
             Preferences: Настройки
             Quick start: Быстрый старт

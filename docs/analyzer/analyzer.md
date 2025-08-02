@@ -124,4 +124,5 @@ other sources are not supported)
 
 !!! note
     We recommend to save imported laps to library. REC uses compression to reduce telemetry files size
-    so this can save a significant amount of disk space.
+    so this can save a significant amount of disk space. For example after converting 360 MB ibt file
+    the corresponding laps in REC format take a little over 100 MB.

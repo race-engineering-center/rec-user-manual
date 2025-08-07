@@ -9,6 +9,16 @@ this tree to hide laps you are not interested in now. This doesn't remove them f
 
 ![Lap library filters](img/analyzer_lap_library_filters_src.png "Lap library filters")
 
+The same way as for the lap tree in the main Analyzer window, you can hold Alt on Windows (or Option on macOS) to show a 
+corresponding item and hide all other items.
+
+![Lap library exclusive selection](img/analyzer_library_tree_selection.gif "Lap library exclusive selection")
+
+analyzer_library_tree_selection.gif
+
+!!! Note
+    Filter selection is saved and restored between  runs of Analyzer so that you can pick up right where you left off.
+
 You can also filter laps using "search" field in the top of the Library window. 
 
 ![Lap library search](img/analyzer_lap_library_search_src.png "Lap library search")

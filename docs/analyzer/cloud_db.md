@@ -12,6 +12,16 @@ Currently you can only access laps driven by yourself or your teammates due to G
 
 ![Garage61 client window](img/g61_overview.png "Garage61 client window")
 
+## Main toolbar
+
+![Garage61 toolbar overview](img/g61_toolbar_marks.png "Garage61 toolbar overview")
+
+1. Authorize
+2. Update metadata (very rarely used)
+3. Update laps (see below)
+4. Download selected laps
+5. Show only personal best laps
+
 ## Authorization
 
 REC uses OAuth2 to access Garage61 data. OAuth2 is a secure authorization protocol - REC never sees or stores your 

@@ -1,13 +1,14 @@
 # Garage61 client
 
-This window lets you access laps from the Garage61 online platform. You can browse, search, and load laps directly into 
-the analyzer for review and comparison.
+This window lets you access laps from the [Garage61](https://garage61.net)  online platform. You can browse, search, and 
+load laps directly into the analyzer for review and comparison.
 
 Currently you can only access laps driven by yourself or your teammates due to Garage61 API limitations. See 
 [Garage61 API docs](https://garage61.net/developer/endpoints/v1/findLaps) for more details.
 
-For your own sessions, it's better to import laps directly from `.ibt` files when possible, since they include
-significantly more detailed data than Garage61 provides.
+!!! Note 
+    For your own sessions, it's better to import laps directly from `.ibt` files when possible, since they include
+    significantly more detailed data than Garage61 provides.
 
 ![Garage61 client window](img/g61_overview.png "Garage61 client window")
 
@@ -38,10 +39,10 @@ can search for the cars, tracks and drivers using search field on the top:
 1. Select a track from the list of available tracks. Note that you can only select one track;
 2. Select any number of cars from the list of available cars;
 3. Select any number of drivers from the list of available drivers;
-4. Optionally check "Only include personal best laps" to only include personal best laps
+4. Optionally check "Only include personal best laps" to only include personal best laps;
 5. Click "Update laps". This will fetch the lap info only to allow you to choose specifically, what laps to download 
-for analysis
-6. Select laps you want to download and click "Download selected laps"
+for analysis;
+6. Select laps you want to download and click "Download selected laps";
 
 REC will request those laps from Garage61 and download them into your local lap library. You can now load them into 
 Analyzer for review as usual (see [Lap library section](laplibrary.md##loading-laps-for-analysis) for details).

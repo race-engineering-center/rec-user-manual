@@ -35,7 +35,7 @@ default browser window will open with a prompt to grant REC access to Garage61 d
 ![Garage61 OAuth2 prompt](img/g61_oauth_prompt.png "Garage61 OAuth2 prompt")
 
 Make sure to keep "Read your driving data and that of your teammates" on. Pressing blue "Authorize" button should show
-you the following page which indicates that authorization was successfuland now you can browse and download laps from 
+you the following page which indicates that authorization was successful and now you can browse and download laps from 
 Garage61:
 
 ![Garage61 OAuth2 success](img/g61_oauth_success.png "Garage61 OAuth2 success")

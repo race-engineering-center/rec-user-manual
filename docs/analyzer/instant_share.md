@@ -21,8 +21,8 @@ quickly copy all the necessary info to clipboard. Then just send it over any one
 // cSpell:disable
 
 ```
-Share ID: 01K66DQGC8VESB7592MNYZ3T3F
-Passphrase: SqueezingConchStrung
+Share ID: 01K68G2CDY11XDJ10QQBV49P47
+Passphrase: ShininessContentlyPreppy
 ```
 
 // cSpell:enable
@@ -38,6 +38,10 @@ To download the instant share open a Lap library window, click **"Laps"** main m
 Paste the Share ID and Passphrase in the window:
 
 ![Download instant share](img/analyzer_download_instant_share.gif "Download instant share")
+
+Note that you don't have to paste Share ID and passphrase separately, if you copied the whole message you can just 
+hit Ctrl+V on any of the fields in this dialog and it will automagically fill the necessary fields as shown in the gif 
+above.
 
 After a short period of downloading shared laps will appear in your Lap library.
 

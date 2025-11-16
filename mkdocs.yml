@@ -38,6 +38,7 @@ nav:
     - Overview: analyzer/analyzer.md
     - Working with laps: analyzer/laps.md
     - Lap library: analyzer/laplibrary.md
+    - Instant share: analyzer/instant_share.md
     - Garage61 client: analyzer/cloud_db.md
     - Telemetry analysis widgets:
       - Workbooks: analyzer/workbooks.md

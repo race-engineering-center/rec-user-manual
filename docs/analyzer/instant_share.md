@@ -18,14 +18,14 @@ After uploading is finished a window with the result will appear:
 Anyone who has this info will be able to download your telemetry. You can press **"Copy to clipboard"** button to 
 quickly copy all the necessary info to clipboard. Then just send it over any one of your favorite messengers like Discord:
 
-// cSpell:disable
+<!-- cSpell:disable -->
 
 ```
 Share ID: 01K68G2CDY11XDJ10QQBV49P47
 Passphrase: ShininessContentlyPreppy
 ```
 
-// cSpell:enable
+<!-- cSpell:enable -->
 
 !!! Note
     Share is only available within an hour after uploading.

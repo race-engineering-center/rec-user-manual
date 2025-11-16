@@ -3,7 +3,7 @@
 This window lets you access laps from the [Garage61](https://garage61.net)  online platform. You can browse, search, and 
 load laps directly into the analyzer for review and comparison.
 
-Currently you can only access laps driven by yourself or your teammates due to Garage61 API limitations. See 
+Currently you can only access laps driven by you or your teammates due to Garage61 API limitations. See 
 [Garage61 API docs](https://garage61.net/developer/endpoints/v1/findLaps) for more details.
 
 !!! Note 
@@ -17,7 +17,7 @@ Currently you can only access laps driven by yourself or your teammates due to G
 ![Garage61 toolbar overview](img/g61_toolbar_marks.png "Garage61 toolbar overview")
 
 1. Authorize
-2. Update metadata (very rarely used)
+2. Update metadata
 3. Update laps (see below)
 4. Download selected laps
 5. Show only personal best laps
@@ -29,21 +29,21 @@ Garage61 password. Authentication happens through the Garage61 website, and REC 
 fetch your data.
 
 To see if your client is currently authorized to access Garage61 data, check bottom right corner of the window. If it
-says "Status: Authorized", you're good to go. If it doesn't, press an "Authorize" button on the main toolbar. Your 
-default browser window will open with a prompt to grant REC access to Garage61 data:
+says "Status: Authorized", you're good to go. If it doesn't, press the "Authorize" button on the main toolbar. A 
+browser window will open with a prompt to grant REC access to Garage61 data:
 
 ![Garage61 OAuth2 prompt](img/g61_oauth_prompt.png "Garage61 OAuth2 prompt")
 
-Make sure to keep "Read your driving data and that of your teammates" on. Pressing blue "Authorize" button should show
-you the following page which indicates that authorization was successful and now you can browse and download laps from 
+Make sure "Read your driving data and that of your teammates" is checked. Pressing the blue "Authorize" button should show
+you the following page which indicates that authorization was successful. You can now browse and download laps from 
 Garage61:
 
 ![Garage61 OAuth2 success](img/g61_oauth_success.png "Garage61 OAuth2 success")
 
 ## Selecting and downloading laps
 
-Filter tree on the left side of the window shows you all available cars, tracks and drivers to download laps from. You
-can search for the cars, tracks and drivers using search field on the top:
+The filter tree on the left side of the window shows all available cars, tracks and drivers. You
+can search for cars, tracks and drivers using the search field on the top:
 
 ![Garage61 filter search](img/g61_filters_search.png "Garage61 filter search")
 
@@ -51,7 +51,7 @@ can search for the cars, tracks and drivers using search field on the top:
 2. Select any number of cars from the list of available cars;
 3. Select any number of drivers from the list of available drivers;
 4. Optionally check "Only include personal best laps" to only include personal best laps;
-5. Click "Update laps". This will fetch the lap info only to allow you to choose specifically, what laps to download 
+5. Click "Update laps". This will fetch the lap info to allow you to specifically choose which laps to download 
 for analysis;
 6. Select laps you want to download and click "Download selected laps";
 

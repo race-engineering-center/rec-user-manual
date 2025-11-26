@@ -20,7 +20,8 @@ Currently you can only access laps driven by you or your teammates due to Garage
 2. Update metadata
 3. Update laps (see below)
 4. Download selected laps
-5. Show only personal best laps
+5. Show only personal best laps (checkable)
+6. Show only laps from the current iRacing season (checkable)
 
 ## Authorization
 

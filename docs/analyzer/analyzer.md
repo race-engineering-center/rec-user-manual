@@ -28,7 +28,7 @@ Performance Optimization:
 This section provides an overview of the key graphical user interface (GUI) elements within the REC Analyzer 
 application.
 
-![Analyzer GUI overview](img/analyzer_gui_overview_src.png "Analyzer GUI overview")
+![Analyzer GUI overview](img/analyzer_gui_overview_marks.png "Analyzer GUI overview")
 
 Main GUI elements:
 
@@ -41,9 +41,9 @@ Main GUI elements:
 7. Track scheme
 8. Cursor that shows current position of a car (synchronized across different widgets)
 9. Analysis tabs 
-10. Collapse/expand telemetry analysis widget settings
+10. Open previously closed tabs
 11. Add new analysis tab
-12. Open previously closed tabs
+12. Collapse/expand telemetry analysis widget settings
 13. Collapse/expand left instruments panel
 14. Collapse/expand channels list
 15. Cursor value details
@@ -77,14 +77,15 @@ your widgets to have more space for the actual data.
 
 The main toolbar provides quick access to essential features and windows. 
 
-![Analyzer telemetry toolbar overview](img/analyzer_telemetry_toolbar_overview_src.png "Analyzer telemetry toolbar overview")
+![Analyzer telemetry toolbar overview](img/analyzer_telemetry_toolbar_overview_marks.png "Analyzer telemetry toolbar overview")
 
 1. Connect to data source and start receiving data
 2. Open telemetry file (native REC format) from disk
 3. Import telemetry file (external format) from disk
 4. Open scripting window (see [scripts](scripts.md) for details)
 5. Open Lap library window (see [lap library](laplibrary.md) for details)
-6. Open preferences window (see [preferences](preferences.md) for details)
+6. Open Cloud window (see [Garage61 client](cloud_db.md) for details)
+7. Open preferences window (see [preferences](preferences.md) for details)
 
 !!! note
     On macOS the telemetry toolbar is hidden by default to save screen space. You can show it by checking the 
@@ -123,4 +124,5 @@ other sources are not supported)
 
 !!! note
     We recommend to save imported laps to library. REC uses compression to reduce telemetry files size
-    so this can save a significant amount of disk space.
+    so this can save a significant amount of disk space. For example after converting 360 MB ibt file
+    the corresponding laps in REC format take a little over 100 MB.

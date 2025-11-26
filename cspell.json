@@ -3,21 +3,25 @@
     "language": "en",
     "words": [
         "automagically",
-        "mkdocs",
-        "venv",
-        "quadri",
-        "viewports",
+        "Assetto",
         "autoconnect",
+        "Competizione",
+        "Corsa",
+        "Dmitriy",
+        "excalidraw",
+        "Linev",
+        "mkdocs",
         "outlap",
         "outlaps",
+        "quadri",
         "teleporting",
-        "Assetto",
-        "Corsa",
-        "Competizione",
+        "venv",
+        "viewports",
     ],
     "ignorePaths": [
         "**.ru.md",
         "requirements.txt",
-        "mkdocs.yml"
+        "mkdocs.yml",
+        "**.excalidraw",
     ]
 }

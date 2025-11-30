@@ -88,6 +88,7 @@ The main toolbar provides quick access to essential features and windows.
 7. Open preferences window (see [preferences](preferences.md) for details)
 
 !!! note
+
     On macOS the telemetry toolbar is hidden by default to save screen space. You can show it by checking the 
     main menu item View -> Toolbars -> Telemetry. All main toolbar features are also available in the main menu.
 
@@ -105,6 +106,7 @@ If a .rec telemetry file is located outside lap library you can open it with the
 item. Click "Load telemetry", select file(s) to open in the file dialog and hit "OK" to load selected files.
 
 !!! note
+
     We recommend to save laps to lap library if you plan to work with them. Lap library is the most convenient 
     way to organize telemetry files.  
 
@@ -123,6 +125,7 @@ REC Analyzer currently supports the following telemetry formats:
 other sources are not supported)
 
 !!! note
+
     We recommend to save imported laps to library. REC uses compression to reduce telemetry files size
     so this can save a significant amount of disk space. For example after converting 360 MB ibt file
     the corresponding laps in REC format take a little over 100 MB.

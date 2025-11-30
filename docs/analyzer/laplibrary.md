@@ -16,7 +16,8 @@ corresponding item and hide all other items.
 
 analyzer_library_tree_selection.gif
 
-!!! Note
+!!! note
+
     Filter selection is saved and restored between  runs of Analyzer so that you can pick up right where you left off.
 
 You can also filter laps using "search" field in the top of the Library window. 

@@ -6,7 +6,8 @@ load laps directly into the analyzer for review and comparison.
 Currently you can only access laps driven by you or your teammates due to Garage61 API limitations. See 
 [Garage61 API docs](https://garage61.net/developer/endpoints/v1/findLaps) for more details.
 
-!!! Note 
+!!! note 
+
     For your own sessions, it's better to import laps directly from `.ibt` files when possible, since they include
     significantly more detailed data than Garage61 provides.
 

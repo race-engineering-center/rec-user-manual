@@ -12,7 +12,8 @@ The Autoconnect feature includes three detailed options for controlling which te
 
 ![Recorder preferences - General](img/recorder_preferences_general.png "Recorder preferences - General")
 
-!!! Note
+!!! note
+
     Please note that not all live plugins do support recording from other cars, often due to limitations
     in the data, provided by the simulator
 

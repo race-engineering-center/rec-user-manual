@@ -50,6 +50,7 @@ of the the selected area on this lap
 Double-click anywhere in a telemetry widget to remove a selection area.
 
 !!! tip
+
     Zoom, selection and cursor are synchronize across all tabs in a current Analyzer window. You can
     use this feature for your advantage, for example select a section of a lap you're interested in
     in one tab, switch to another tab and inspect another data within the same track section. Also all
@@ -110,6 +111,7 @@ and hit Apply for your settings to take effect.
 ![Telemetry widget setup scaling](img/widget_telemetry_setup_scaling.png "Telemetry widget setup scaling")
 
 !!! tip
+
     We recommend to use **Auto on visible graphs** scaling in most cases unless you really know what you're doing.
     You might need to use **Manual** scaling if you need to see multiple channels in one viewport, as for example
     in a builtin Driver tab where we have Speed channel scaled automatically and Gear channel occupying ~20% of

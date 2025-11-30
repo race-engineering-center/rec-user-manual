@@ -54,7 +54,8 @@ When recorder is connected to the sim (status is shown as "connected" and a nece
 it's ready to record your telemetry. Just go on track and do a quick lap, it will be recorded and
 saved in the [lap library](../analyzer/laplibrary.md)
 
-!!! Note
+!!! note
+
     A recommended way of retrieving telemetry from iRacing is importing ibt file into the Analyzer
     directly, since it contains more data than if recorded in realtime. However sometimes it might
     be feasible to use recorder with iRacing, for example when you want to record data from another

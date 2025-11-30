@@ -28,6 +28,7 @@ Passphrase: ShininessContentlyPreppy
 <!-- cSpell:enable -->
 
 !!! note
+
     Share is only available within an hour after uploading.
 
 To download the instant share, open a Lap library window, click the **"Laps"** main menu item and click

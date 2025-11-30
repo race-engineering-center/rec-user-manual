@@ -14,14 +14,16 @@ recorded to be replayed;
 6. After the lap is finished leave a couple of seconds of overlap with the next lap
 to correctly detect a lap end;
 
-!!! Note 
+!!! note
+
     Currently Recorder only supports recording telemetry from your car (the car of the player,
     that saved this replay) due to the limitations of the data provided by iRacing.
 
 After recording is finished, go to Analyzer [lap library](../analyzer/laplibrary.md) to 
 check your lap.
 
-!!! Note
+!!! note
+
     iRacing live plugin records all the data provided by iRacing, however the telemetry recorded 
     from the replay will contain smaller set of channels because iRacing does not provide some
     telemetry in replay.

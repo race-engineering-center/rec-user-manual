@@ -1,0 +1,4 @@
+# Disable Prettier for Markdown files
+# mdformat is the canonical formatter for this project
+*.md
+docs/**/*.md

@@ -65,6 +65,6 @@ drivers. You can search for cars, tracks and drivers using the search field on t
 
 REC will request those laps from Garage61 and download them into your local lap library.
 You can now load them into Analyzer for review as usual (see
-[Lap library section](laplibrary.md##loading-laps-for-analysis) for details).
+[Lap library - loading laps for analysis](laplibrary.md#loading-laps-for-analysis) for details).
 
 ![Garage61 downloading laps](img/g61_client_workflow.gif "Garage61 downloading laps")

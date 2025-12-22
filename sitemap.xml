@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://race-engineering-center.github.io/rec-user-manual/</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://race-engineering-center.github.io/rec-user-manual/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://race-engineering-center.github.io/rec-user-manual/ru/"/>
+    </url>
+    <url>
+        <loc>https://race-engineering-center.github.io/rec-user-manual/quickstart/</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://race-engineering-center.github.io/rec-user-manual/quickstart/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://race-engineering-center.github.io/rec-user-manual/ru/quickstart/"/>
+    </url>
+    <url>
+        <loc>https://race-engineering-center.github.io/rec-user-manual/analyzer/analyzer/</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://race-engineering-center.github.io/rec-user-manual/analyzer/analyzer/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/analyzer/"/>
+    </url>
+    <url>
+        <loc>https://race-engineering-center.github.io/rec-user-manual/analyzer/cloud_db/</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://race-engineering-center.github.io/rec-user-manual/analyzer/cloud_db/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/cloud_db/"/>
+    </url>
+    <url>
+        <loc>https://race-engineering-center.github.io/rec-user-manual/analyzer/instant_share/</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://race-engineering-center.github.io/rec-user-manual/analyzer/instant_share/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/instant_share/"/>
+    </url>
+    <url>
+        <loc>https://race-engineering-center.github.io/rec-user-manual/analyzer/laplibrary/</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://race-engineering-center.github.io/rec-user-manual/analyzer/laplibrary/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/laplibrary/"/>
+    </url>
+    <url>
+        <loc>https://race-engineering-center.github.io/rec-user-manual/analyzer/laps/</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://race-engineering-center.github.io/rec-user-manual/analyzer/laps/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/laps/"/>
+    </url>
+    <url>
+        <loc>https://race-engineering-center.github.io/rec-user-manual/analyzer/preferences/</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://race-engineering-center.github.io/rec-user-manual/analyzer/preferences/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/preferences/"/>
+    </url>
+    <url>
+        <loc>https://race-engineering-center.github.io/rec-user-manual/analyzer/script_api/</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://race-engineering-center.github.io/rec-user-manual/analyzer/script_api/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/script_api/"/>
+    </url>
+    <url>
+        <loc>https://race-engineering-center.github.io/rec-user-manual/analyzer/scripts/</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://race-engineering-center.github.io/rec-user-manual/analyzer/scripts/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/scripts/"/>
+    </url>
+    <url>
+        <loc>https://race-engineering-center.github.io/rec-user-manual/analyzer/trackscheme/</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://race-engineering-center.github.io/rec-user-manual/analyzer/trackscheme/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/trackscheme/"/>
+    </url>
+    <url>
+        <loc>https://race-engineering-center.github.io/rec-user-manual/analyzer/widget_histogram/</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://race-engineering-center.github.io/rec-user-manual/analyzer/widget_histogram/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/widget_histogram/"/>
+    </url>
+    <url>
+        <loc>https://race-engineering-center.github.io/rec-user-manual/analyzer/widget_qhistogram/</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://race-engineering-center.github.io/rec-user-manual/analyzer/widget_qhistogram/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/widget_qhistogram/"/>
+    </url>
+    <url>
+        <loc>https://race-engineering-center.github.io/rec-user-manual/analyzer/widget_qtelemetry/</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://race-engineering-center.github.io/rec-user-manual/analyzer/widget_qtelemetry/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/widget_qtelemetry/"/>
+    </url>
+    <url>
+        <loc>https://race-engineering-center.github.io/rec-user-manual/analyzer/widget_scatter/</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://race-engineering-center.github.io/rec-user-manual/analyzer/widget_scatter/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/widget_scatter/"/>
+    </url>
+    <url>
+        <loc>https://race-engineering-center.github.io/rec-user-manual/analyzer/widget_stint/</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://race-engineering-center.github.io/rec-user-manual/analyzer/widget_stint/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/widget_stint/"/>
+    </url>
+    <url>
+        <loc>https://race-engineering-center.github.io/rec-user-manual/analyzer/widget_telemetry/</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://race-engineering-center.github.io/rec-user-manual/analyzer/widget_telemetry/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/widget_telemetry/"/>
+    </url>
+    <url>
+        <loc>https://race-engineering-center.github.io/rec-user-manual/analyzer/widget_trackmap/</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://race-engineering-center.github.io/rec-user-manual/analyzer/widget_trackmap/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/widget_trackmap/"/>
+    </url>
+    <url>
+        <loc>https://race-engineering-center.github.io/rec-user-manual/analyzer/workbooks/</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://race-engineering-center.github.io/rec-user-manual/analyzer/workbooks/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/workbooks/"/>
+    </url>
+    <url>
+        <loc>https://race-engineering-center.github.io/rec-user-manual/recorder/ir_replay/</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://race-engineering-center.github.io/rec-user-manual/recorder/ir_replay/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://race-engineering-center.github.io/rec-user-manual/ru/recorder/ir_replay/"/>
+    </url>
+    <url>
+        <loc>https://race-engineering-center.github.io/rec-user-manual/recorder/preferences/</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://race-engineering-center.github.io/rec-user-manual/recorder/preferences/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://race-engineering-center.github.io/rec-user-manual/ru/recorder/preferences/"/>
+    </url>
+    <url>
+        <loc>https://race-engineering-center.github.io/rec-user-manual/recorder/recorder/</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://race-engineering-center.github.io/rec-user-manual/recorder/recorder/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://race-engineering-center.github.io/rec-user-manual/ru/recorder/recorder/"/>
+    </url>
+    <url>
+        <loc>https://race-engineering-center.github.io/rec-user-manual/ru/</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://race-engineering-center.github.io/rec-user-manual/ru/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://race-engineering-center.github.io/rec-user-manual/"/>
+    </url>
+    <url>
+        <loc>https://race-engineering-center.github.io/rec-user-manual/ru/quickstart/</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://race-engineering-center.github.io/rec-user-manual/ru/quickstart/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://race-engineering-center.github.io/rec-user-manual/quickstart/"/>
+    </url>
+    <url>
+        <loc>https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/analyzer/</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/analyzer/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://race-engineering-center.github.io/rec-user-manual/analyzer/analyzer/"/>
+    </url>
+    <url>
+        <loc>https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/cloud_db/</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/cloud_db/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://race-engineering-center.github.io/rec-user-manual/analyzer/cloud_db/"/>
+    </url>
+    <url>
+        <loc>https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/instant_share/</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/instant_share/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://race-engineering-center.github.io/rec-user-manual/analyzer/instant_share/"/>
+    </url>
+    <url>
+        <loc>https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/laplibrary/</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/laplibrary/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://race-engineering-center.github.io/rec-user-manual/analyzer/laplibrary/"/>
+    </url>
+    <url>
+        <loc>https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/laps/</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/laps/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://race-engineering-center.github.io/rec-user-manual/analyzer/laps/"/>
+    </url>
+    <url>
+        <loc>https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/preferences/</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/preferences/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://race-engineering-center.github.io/rec-user-manual/analyzer/preferences/"/>
+    </url>
+    <url>
+        <loc>https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/script_api/</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/script_api/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://race-engineering-center.github.io/rec-user-manual/analyzer/script_api/"/>
+    </url>
+    <url>
+        <loc>https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/scripts/</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/scripts/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://race-engineering-center.github.io/rec-user-manual/analyzer/scripts/"/>
+    </url>
+    <url>
+        <loc>https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/trackscheme/</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/trackscheme/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://race-engineering-center.github.io/rec-user-manual/analyzer/trackscheme/"/>
+    </url>
+    <url>
+        <loc>https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/widget_histogram/</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/widget_histogram/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://race-engineering-center.github.io/rec-user-manual/analyzer/widget_histogram/"/>
+    </url>
+    <url>
+        <loc>https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/widget_qhistogram/</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/widget_qhistogram/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://race-engineering-center.github.io/rec-user-manual/analyzer/widget_qhistogram/"/>
+    </url>
+    <url>
+        <loc>https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/widget_qtelemetry/</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/widget_qtelemetry/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://race-engineering-center.github.io/rec-user-manual/analyzer/widget_qtelemetry/"/>
+    </url>
+    <url>
+        <loc>https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/widget_scatter/</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/widget_scatter/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://race-engineering-center.github.io/rec-user-manual/analyzer/widget_scatter/"/>
+    </url>
+    <url>
+        <loc>https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/widget_stint/</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/widget_stint/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://race-engineering-center.github.io/rec-user-manual/analyzer/widget_stint/"/>
+    </url>
+    <url>
+        <loc>https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/widget_telemetry/</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/widget_telemetry/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://race-engineering-center.github.io/rec-user-manual/analyzer/widget_telemetry/"/>
+    </url>
+    <url>
+        <loc>https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/widget_trackmap/</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/widget_trackmap/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://race-engineering-center.github.io/rec-user-manual/analyzer/widget_trackmap/"/>
+    </url>
+    <url>
+        <loc>https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/workbooks/</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://race-engineering-center.github.io/rec-user-manual/ru/analyzer/workbooks/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://race-engineering-center.github.io/rec-user-manual/analyzer/workbooks/"/>
+    </url>
+    <url>
+        <loc>https://race-engineering-center.github.io/rec-user-manual/ru/recorder/ir_replay/</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://race-engineering-center.github.io/rec-user-manual/ru/recorder/ir_replay/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://race-engineering-center.github.io/rec-user-manual/recorder/ir_replay/"/>
+    </url>
+    <url>
+        <loc>https://race-engineering-center.github.io/rec-user-manual/ru/recorder/preferences/</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://race-engineering-center.github.io/rec-user-manual/ru/recorder/preferences/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://race-engineering-center.github.io/rec-user-manual/recorder/preferences/"/>
+    </url>
+    <url>
+        <loc>https://race-engineering-center.github.io/rec-user-manual/ru/recorder/recorder/</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://race-engineering-center.github.io/rec-user-manual/ru/recorder/recorder/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://race-engineering-center.github.io/rec-user-manual/recorder/recorder/"/>
+    </url>
+</urlset>

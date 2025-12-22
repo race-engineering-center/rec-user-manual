@@ -104,16 +104,13 @@ The main toolbar provides quick access to essential features and windows.
 ### Opening REC native telemetry files
 
 Telemetry files saved by REC (with the .rec extension) can be opened in two different
-ways.
+ways:
 
-If a file is located within local lap library, it can be loaded using lap library
-window. Open lap library window, choose laps to load and simply drag them to lap list in
-the main Analyzer window. Please refer to the [lap library](laplibrary.md) section for
-details.
+**From lap library:** open lap library window, choose laps to load and drag them to lap
+list in the main Analyzer window. See [lap library](laplibrary.md) section for details.
 
-If a .rec telemetry file is located outside lap library you can open it with the "Load
-telemetry" toolbar or menu item. Click "Load telemetry", select file(s) to open in the
-file dialog and hit "OK" to load selected files.
+**From disk:** use "Load telemetry" toolbar button or menu item, select file(s) in the
+file dialog and hit "OK".
 
 !!! note
 

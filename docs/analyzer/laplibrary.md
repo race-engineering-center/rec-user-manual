@@ -16,8 +16,6 @@ Windows (or Option on macOS) to show a corresponding item and hide all other ite
 
 ![Lap library exclusive selection](img/analyzer_library_tree_selection.gif "Lap library exclusive selection")
 
-analyzer_library_tree_selection.gif
-
 !!! note
 
     Filter selection is saved and restored between runs of Analyzer so that you can pick up
